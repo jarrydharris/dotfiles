@@ -1,0 +1,7 @@
+[user]
+	name = Jarryd Harris
+	email = mail@jarrydharris.org
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
